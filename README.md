@@ -8,6 +8,3 @@ App that generates proposed names for a startup company. The user can select and
 
 The following animated GIF shows how the app works:
 ![7fcab088cd22cff7](https://user-images.githubusercontent.com/42799047/145083374-0081a104-aa0e-44fe-a911-3e4a6fdefc5d.gif)
-
-## Screenshot
-
